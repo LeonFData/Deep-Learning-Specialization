@@ -4,7 +4,7 @@ Master Deep Learning, and Break into AI
 
 Machine learning techniques are evolving rapidly. I am always looking forward to learn and stay ahead. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) is a fantastic program I found on [Coursera](https://www.coursera.org/). I created this repository to show the courses materials, quizs and assignments I've finished. I have uploaded the certificates for completed courses.
 
-### Course 1: Neural Networks and Deep Learning (click to view [certificate](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course1%20Neural%20Networks%20and%20Deep%20Learning/Course%20Certificate.pdf))
+### Course 1: Neural Networks and Deep Learning (view [certificate](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course1%20Neural%20Networks%20and%20Deep%20Learning/Course%20Certificate.pdf))
 - Understand the major technology trends driving Deep Learning
 - Be able to build, train and apply fully connected deep neural networks 
 - Know how to implement efficient (vectorized) neural networks 
@@ -39,3 +39,5 @@ Machine learning techniques are evolving rapidly. I am always looking forward to
   
   - Week3 Quiz: [Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course2%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3%20Hyperparameter%20tuning%2C%20Batch%20Normalization%20and%20Programming%20Frameworks/W3%20Quiz.pdf) 
   - Week3 Programming Assignment: [Tensorflow Tutorial](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course2%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3%20Hyperparameter%20tuning%2C%20Batch%20Normalization%20and%20Programming%20Frameworks/Tensorflow%20Tutorial.ipynb)
+
+### Course 3: Structuring Machine Learning Projects (Currently Learning)

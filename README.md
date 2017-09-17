@@ -9,4 +9,5 @@ Machine learning techniques are evolving rapidly. I am always looking forward to
 - Be able to build, train and apply fully connected deep neural networks 
 - Know how to implement efficient (vectorized) neural networks 
 - Understand the key parameters in a neural network's architecture 
- - Week1 Quiz: 
+
+  - Week1 Quiz: 

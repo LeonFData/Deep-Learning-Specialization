@@ -4,7 +4,7 @@ Master Deep Learning, and Break into AI
 
 Machine learning techniques are evolving rapidly. I am always looking forward to learn and stay ahead. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) is a fantastic program I found on [Coursera](https://www.coursera.org/). I created this repository to show the courses materials, quizs and assignments I've finished. I have uploaded the certificates for completed courses.
 
-### Course 1: Neural Networks and Deep Learning (view [certificate](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course1%20Neural%20Networks%20and%20Deep%20Learning/Course%20Certificate.pdf))
+### Course 1: Neural Networks and Deep Learning (View [certificate](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course1%20Neural%20Networks%20and%20Deep%20Learning/Course%20Certificate.pdf))
 - Understand the major technology trends driving Deep Learning
 - Be able to build, train and apply fully connected deep neural networks 
 - Know how to implement efficient (vectorized) neural networks 

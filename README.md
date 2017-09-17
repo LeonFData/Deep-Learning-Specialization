@@ -10,4 +10,4 @@ Machine learning techniques are evolving rapidly. I am always looking forward to
 - Know how to implement efficient (vectorized) neural networks 
 - Understand the key parameters in a neural network's architecture 
 
-  - Week1 Quiz: 
+  - Week2 Quiz: [Neural Network Basics Questions](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course1%20Neural%20Networks%20and%20Deep%20Learning/Week2%20Neural%20Networks%20Basics/Week2%20-%20Quiz.pdf) 

@@ -40,10 +40,18 @@ Machine learning techniques are evolving rapidly. I am always looking forward to
   - Week3 Quiz: [Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course2%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3%20Hyperparameter%20tuning%2C%20Batch%20Normalization%20and%20Programming%20Frameworks/W3%20Quiz.pdf) 
   - Week3 Programming Assignment: [Tensorflow Tutorial](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course2%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3%20Hyperparameter%20tuning%2C%20Batch%20Normalization%20and%20Programming%20Frameworks/Tensorflow%20Tutorial.ipynb)
 
-### Course 3: Structuring Machine Learning Projects (Currently Learning)
+### Course 3: Structuring Machine Learning Projects (View [certificate](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course3%20Structuring%20Machine%20Learning%20Projects/Course%20Certificate.pdf))
 - Understand why Machine Learning strategy is important
 - Apply satisficing and optimizing metrics to set up your goal for ML projects
 - Choose a correct train/dev/test split of your dataset
 - Understand how to define human-level performance
 - Use human-level perform to define your key priorities in ML projects
 - Take the correct ML Strategic decision based on observations of performances and dataset
+- Understand what multi-task learning and transfer learning are
+- Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
+
+  - Week1 Project Quiz: [Bird recognition in the city of Peacetopia (case study)](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course3%20Structuring%20Machine%20Learning%20Projects/W1%20Introduction%20to%20ML%20Strategy/W1%20Project%20Quiz.pdf) 
+  - Week1 My course notes: [Machine Learning Strategy (1)](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course3%20Structuring%20Machine%20Learning%20Projects/W1%20Introduction%20to%20ML%20Strategy/W1_My_course_note.pdf)
+  
+  - Week2 Project Quiz: [Autonomous driving (case study)](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course3%20Structuring%20Machine%20Learning%20Projects/W2%20ML%20Strategy%20(2)/W2%20Project%20Quiz.pdf) 
+  - Week2 My course notes: [Machine Learning Strategy (2)](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course3%20Structuring%20Machine%20Learning%20Projects/W2%20ML%20Strategy%20(2)/W2_My_course_notes_.pdf)
